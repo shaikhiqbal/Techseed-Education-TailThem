@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-theme",
+  "version": "1.0.0",
+  "description": "Tech-seed education development mode setup",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/shaikhiqbal/Techseed-Education-TailThem.git"
+  },
+  "author": "Mohammad Iqbal Shaikh",
+  "license": "ISC"
+}
